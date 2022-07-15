@@ -1,0 +1,5 @@
+baseURL = 'http://grasbylabs.xyz/'
+languageCode = 'en-us'
+title = 'Grasby Labs'
+
+theme = "lugo"

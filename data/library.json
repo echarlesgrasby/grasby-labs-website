@@ -1,0 +1,159 @@
+{
+    "works":
+    [
+        {
+            "genre": "Epic Fantasy"
+            ,"books":
+            [
+                {
+                     "title": "Faith Of The Fallen"
+                    ,"isbn": "081257639X"
+                    ,"author": "Terry Goodkind"
+                }
+                ,{
+                    "title": "Chainfire"
+                    ,"isbn": "9780765344311"
+                    ,"author": "Terry Goodkind"
+                }
+                ,{
+                    "title": "Wizard's First Rule"
+                    ,"isbn": "9780812548051"
+                    ,"author": "Terry Goodkind"
+                }
+                ,{
+                    "title": "Phantom"
+                    ,"isbn": "9780765344328"
+                    ,"author": "Terry Goodkind"
+                }
+                ,{
+                    "title": "The Heart Of Myrial"
+                    ,"isbn": "055357938x"
+                    ,"author": "Maggie Furey"
+                }
+                ,{
+                    "title": "By The Sword (Kerowyn's Tale)"
+                    ,"isbn": "088677432"
+                    ,"author": "Mercedes Lackey"
+                }
+                ,{
+                    "title": "Magic's Pawn"
+                    ,"isbn": "Unknown"
+                    ,"author": "Mercedes Lackey"
+                }
+                ,{
+                    "title": "Magic's Promise"
+                    ,"isbn": "Unknown"
+                    ,"author": "Mercedes Lackey"
+                }
+                ,{
+                    "title": "Magic's Price"
+                    ,"isbn": "Unknown"
+                    ,"author": "Mercedes Lackey"
+                }
+                ,{
+                    "title": "Arrows Of The Queen"
+                    ,"isbn": "Unknown"
+                    ,"author": "Mercedes Lackey"
+                }
+                ,{
+                    "title": "Arrow's Flight"
+                    ,"isbn": "Unknown"
+                    ,"author": "Mercedes Lackey"
+                }
+                ,{
+                    "title": "Pawn Of Prophecy (Book One of The Belgariad)"
+                    ,"isbn": "0345335511"
+                    ,"author": "David Eddings"
+                }
+                ,{
+                    "title": "Shame Of Man"
+                    ,"isbn": "0812550919"
+                    ,"author": "Piers Anthony"
+                }
+            ]
+        },
+        {
+            "genre": "Science Fiction"
+            ,"books":
+            [
+                {
+                    "title": "Foundation"
+                    ,"isbn": "0553293354"
+                    ,"author": "Isaac Asimov"
+                }
+                ,{
+                    "title": "The Lost King"
+                    ,"isbn": "0553286005"
+                    ,"author": "Margaret Weis"
+                }
+                ,{
+                    "title": "The Mote In God's Eye"
+                    ,"isbn": "067149175X"
+                    ,"author": "Jerry Pournelle"
+                }
+                ,{
+                    "title": "A World Out Of Time"
+                    ,"isbn": "Unknown"
+                    ,"author": "Larry Niven"
+                }
+                ,{
+                    "title": "The Integral Trees"
+                    ,"isbn": "0345320654"
+                    ,"author": "Larry Niven"
+                }
+                ,{
+                    "title": "The Martian"
+                    ,"isbn": "9780553418026"
+                    ,"author": "Andy Weir"
+                }
+                ,{
+                    "title": "Project Hail Mary"
+                    ,"isbn": "Unknown"
+                    ,"author": "Andy Weir"
+                }
+                ,{
+                    "title": "Stranger In A Strange Land"
+                    ,"isbn": "Unknown"
+                    ,"author": "Robert A. Heinlein"
+                }
+                ,{
+                    "title": "I Will Fear No Evil"
+                    ,"isbn": "Unknown"
+                    ,"author": "Robert A. Heinlein"
+                }
+                ,{
+                    "title": "Bright Messengers"
+                    ,"isbn": "0553573292"
+                    ,"author": "Arthur C. Clarke"
+                }
+                ,{
+                    "title": "Dune"
+                    ,"isbn": "Unknown"
+                    ,"author": "Frank Herbert"
+                }
+                ,{
+                    "title": "Destination: Void"
+                    ,"isbn": "Unknown"
+                    ,"author": "Frank Herbert"
+                }
+
+            ]
+        },
+        {
+            "genre": "Young Adult"
+            ,"books":
+            [
+                {
+                    "title": "Turtles All The Way Down"
+                    ,"isbn": "9780525555384"
+                    ,"author": "John Green"
+                }
+                ,{
+                    "title": "The Fault In Our Stars"
+                    ,"isbn": "9780525478812"
+                    ,"author": "John Green"
+                }
+            ]
+        }        
+    ]
+}
